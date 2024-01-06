@@ -1,6 +1,3 @@
-<p align="center">
-<img alt="MERN stack" src ="https://wallpapercave.com/dwp1x/wp8903905.jpg"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Saksham Prajapati</h1>
 <h3 align="center">A passionate Full Stack Developer skilled in MongoDB, MySQL, Express, React, and Node.js.</h3>
